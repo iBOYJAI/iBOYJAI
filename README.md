@@ -1,179 +1,74 @@
-<div align="center">
+<p align="center">
+  <img src="assets/hero.svg" alt="Jaiganesh D, iBOY. AI systems builder and full-stack developer. Open to projects and roles." width="100%" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,45:063B2D,100:00E5A0&height=260&section=header&text=iBOY&fontSize=96&fontColor=FFFFFF&fontAlignY=42&desc=Jaiganesh%20D%20%C2%B7%20AI%20systems%20builder%20%C2%B7%20solo%20founder%20%C2%B7%20Tamil%20Nadu&descSize=17&descAlignY=68&descColor=D1FAE5&animation=twinkling" width="100%" />
+<p align="center">
+  <a href="mailto:iboy.innovationhub@gmail.com"><img src="https://img.shields.io/badge/Hire%20me-iboy.innovationhub%40gmail.com-00E5A0?style=for-the-badge&labelColor=0B0F0E&logo=gmail&logoColor=00E5A0" alt="Email me" /></a>
+  <a href="https://instagram.com/iboy_innovation.hub"><img src="https://img.shields.io/badge/Studio-%40iboy__innovation.hub-0B0F0E?style=for-the-badge&logo=instagram&logoColor=00E5A0" alt="Studio on Instagram" /></a>
+  <a href="https://instagram.com/from.jai.to.iboy"><img src="https://img.shields.io/badge/Me-%40from.jai.to.iboy-0B0F0E?style=for-the-badge&logo=instagram&logoColor=00E5A0" alt="Personal Instagram" /></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00E5A0&center=true&vCenter=true&width=900&height=50&lines=%24+whoami+%E2%86%92+one+person%2C+a+whole+product+team;%24+ship+--real+%7C+not+demos;%24+building+Laabo%2C+iSoulSync%2C+iPetie;%24+Innovation+isn%27t+what+you+do%2C+it%27s+who+you+are)](https://git.io/typing-svg)
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-<a href="https://github.com/iBOYJAI"><img src="https://img.shields.io/github/followers/iBOYJAI?label=followers&style=for-the-badge&color=00E5A0&labelColor=000000&logo=github&logoColor=FFFFFF" /></a>
-<img src="https://komarev.com/ghpvc/?username=iBOYJAI&style=for-the-badge&color=00E5A0&labelColor=000000&label=VISITORS" />
-<a href="mailto:iboy.innovationhub@gmail.com"><img src="https://img.shields.io/badge/say_hello-iboy.innovationhub%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00E5A0" /></a>
+### Hi, I'm Jai 👋
 
-</div>
+I design, build and ship complete products on my own, from the first screen to the live server. I work with shops, schools, event teams and startups that need something real in production, not a demo.
 
-<br/>
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  iBOY OS 1.0  ·  boot sequence                               │
-├──────────────────────────────────────────────────────────────┤
-│  [ ok ] product thinking ......... loaded                    │
-│  [ ok ] full-stack engine ........ NestJS · Next.js · Flutter│
-│  [ ok ] AI core .................. LLMs · RAG · agents · voice│
-│  [ ok ] language ................. தமிழ் · Tanglish · English │
-│  [ ok ] mode ..................... solo founder, ships daily  │
-└──────────────────────────────────────────────────────────────┘
-```
-
-## ⚡ What I do
+### Open to
 
 | | |
 | --- | --- |
-| 🧠 **Think** | Turn messy real-world flows (shops, schools, events) into one clear screen |
-| 🛠 **Build** | Backends, real-time engines and AI features that survive production |
-| 🚀 **Ship** | Deploy, monitor, fix, repeat, and then tell the story of it |
+| **Freelance and client projects** | Web apps, dashboards, billing and operations tools, AI features |
+| **Product partnerships** | Founders who need a builder who owns design, code and deployment |
+| **Remote and full-time roles** | Full-stack or AI engineering, product-minded teams |
 
-> One person who can design it, build it and ship it. That is the whole pitch.
+> The fastest way to reach me is email: **[iboy.innovationhub@gmail.com](mailto:iboy.innovationhub@gmail.com)**. Tell me what you want to build and by when.
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## 🛒 Now building: **Laabo**
+### What I can build for you
 
-A Tamil-first billing, stock and profit platform for shops and supermarkets, with **Boo**, a voice assistant that speaks Tamil, Tanglish and English.
+|  |  |
+| --- | --- |
+| **Business apps** | Billing, inventory, ERP and role-based dashboards with Next.js, NestJS and PostgreSQL |
+| **AI products** | Assistants, voice and Tamil-language features, RAG and multi-agent workflows |
+| **Mobile** | Flutter apps with real-time chat and offline support |
+| **3D and interactive web** | React Three Fiber experiences, AI hosts and demos |
 
-<table>
-<tr>
-<td width="33%" valign="top">
+### Selected work
 
-**🗣 Boo, the assistant**
-Drafts bills by voice and gives advice from each shop's *own* sales history: best day, busiest hour, slow and dead stock.
+| Project | What it is | Status |
+| --- | --- | --- |
+| **Laabo** | Tamil-first billing, stock and profit platform for shops and supermarkets, with a voice assistant. Client product, developed and licensed by iBOY | Client pilot |
+| **Tectovia SMS** | DST-funded school management system with role dashboards and assessments. ₹2.5 lakh grant, live at [tectovia.in](http://tectovia.in/) | In institutional use |
+| **[iPetie](https://github.com/iBOYJAI/iPetie)** | Real-time AI pet companion with live chat and admin tools. Flutter, NestJS, Supabase | Beta live |
+| **[iSoulSync](https://github.com/iBOYJAI/iSoulSync-FV)** | Emotional AI companion with a four-layer memory and emotion engine | In development |
+| **[AI Anchor](https://github.com/iBOYJAI/AI_ANCHOR_V.0)** | 3D, voice-driven event host with React Three Fiber, Django and ElevenLabs | Completed |
+| **[Campus-to-Career](https://github.com/iBOYJAI/campus-to-career-placement-platform)** | Placement platform with AI resume-to-job matching | Completed |
 
-</td>
-<td width="33%" valign="top">
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-**📦 Stock that talks**
-Slow, non-moving and dead stock judged against each product's own rhythm. Expiry dates and an "EXPIRED" line on the receipt.
+### Stack
 
-</td>
-<td width="33%" valign="top">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,dart,nextjs,react,flutter,nestjs,fastapi,nodejs,postgres,prisma,supabase,mongodb,redis,docker,vercel,gcp,aws,threejs&perline=10&theme=dark" alt="TypeScript, JavaScript, Python, Dart, Next.js, React, Flutter, NestJS, FastAPI, Node.js, PostgreSQL, Prisma, Supabase, MongoDB, Redis, Docker, Vercel, GCP, AWS, Three.js" />
+</p>
 
-**🏪 Shop to supermarket**
-Owner, manager and staff roles, customer credit, GST, reorder, day close, multi-shop. Web, API, Postgres.
+### How I work
 
-</td>
-</tr>
-</table>
+- **One owner for everything.** Design, code, database, deployment and fixes all stay with me, so nothing gets lost between teams.
+- **Real users first.** I test on real phones and real roles before calling something done.
+- **Clear and visible.** You get short updates, working builds to click through and plain-language notes.
 
-`TypeScript` · `Next.js` · `NestJS` · `Prisma` · `PostgreSQL` · `Vercel`  ·  *Developed and licensed by iBOY (private, client product)*
+### iBOY Innovation Hub
 
----
+My studio for web, apps, AI and automation, branding and digital marketing. *Innovation isn't just what you do, it's who you are.*
 
-## 🧪 The lab
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iBOYJAI&show_icons=true&hide_border=true&bg_color=0B0F0E&title_color=00E5A0&icon_color=00E5A0&text_color=D1D5DB&count_private=true" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBOYJAI&layout=compact&hide_border=true&bg_color=0B0F0E&title_color=00E5A0&text_color=D1D5DB&langs_count=6&hide=css,html" width="48%" alt="Top languages" />
+</p>
 
-### 🧬 [iSoulSync](https://github.com/iBOYJAI/iSoulSync-FV)
-Emotional AI companion with a 4-tier memory and 16-dimension emotion engine.
-`NestJS` `Next.js` `PostgreSQL` · 🟢 in development
-
-</td>
-<td width="50%" valign="top">
-
-### 🐾 [iPetie](https://github.com/iBOYJAI/iPetie)
-Real-time AI pet: live chat, themed rooms, admin tools.
-`Flutter` `NestJS` `Supabase` · 🟢 beta live
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### 🏫 Tectovia SMS
-DST-funded school management system with role dashboards and assessments. ₹2.5 L grant, live at [tectovia.in](http://tectovia.in/).
-`Node.js` `MongoDB` · 🟡 in institutional use
-
-</td>
-<td valign="top">
-
-### 🎙 [AI Anchor](https://github.com/iBOYJAI/AI_ANCHOR_V.0) + 3D Assistant
-3D, voice-driven hosts and assistants for events.
-`React Three Fiber` `Django` `ElevenLabs` · 🟡 iterating
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### 🎯 [Campus-to-Career](https://github.com/iBOYJAI/campus-to-career-placement-platform)
-Placement and alumni platform with AI resume-to-job matching.
-`Node.js` `MongoDB` · 🟡 completed
-
-</td>
-<td valign="top">
-
-### 🤖 Agents and games
-Google ADK multi-agent experiments, an AI interviewer, a resume builder and R3F games.
-`Python` `R3F` · 🧫 experiments
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧰 Toolbox
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00E5A0)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00E5A0)
-![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00E5A0)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00E5A0)
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00E5A0)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=E5E7EB)
-![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=E11D48)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00E5A0)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00E5A0)
-![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=00E5A0)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=00E5A0)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=22C55E)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=EF4444)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=38BDF8)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-![GCP](https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=F97316)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=F59E0B)
-
-</div>
-
----
-
-## 🏢 iBOY Innovation Hub
-
-```text
-services  →  web · apps · AI & automation · branding · marketing · IT & hardware
-products  →  Laabo · iSoulSync · iPetie · i-Commerce · AI Anchor
-motto     →  "Innovation isn't just what you do, it's who you are"
-mission   →  Innovation beyond on youths
-```
-
-[![Instagram](https://img.shields.io/badge/@iboy__innovation.hub-000000?style=for-the-badge&logo=instagram&logoColor=00E5A0)](https://instagram.com/iboy_innovation.hub)
-[![Instagram](https://img.shields.io/badge/@from.jai.to.iboy-000000?style=for-the-badge&logo=instagram&logoColor=00E5A0)](https://instagram.com/from.jai.to.iboy)
-
-## 🤝 Let's build
-
-Looking for a builder for an AI product, a real-time platform or a 3D web experience? Or a designer or founder who wants to ship something sharp? Write to **[iboy.innovationhub@gmail.com](mailto:iboy.innovationhub@gmail.com)**.
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=iBOYJAI&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00E5A0&icon_color=00E5A0&text_color=FFFFFF&border_color=00E5A0&border_radius=12&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBOYJAI&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00E5A0&text_color=FFFFFF&border_color=00E5A0&border_radius=12&langs_count=8&hide=css,html" width="48%" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00E5A0,100:000000&height=100&section=footer&reversal=true" width="100%" />
-
-**`// BUILDING THE FUTURE FROM TAMIL NADU, ONE COMMIT AT A TIME`**
-
-</div>
+<p align="center"><sub>Based in Tamil Nadu, India · Tamil · Tanglish · English · Available for remote work</sub></p>
