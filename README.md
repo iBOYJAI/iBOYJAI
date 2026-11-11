@@ -1,12 +1,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-dark.svg" alt="iBOY. Jaiganesh D, AI systems builder and full-stack developer, Tamil Nadu, India. 2,954 contributions in the last 12 months, over 100 repositories, 3 products live or in pilot." width="100%">
+  <img src="assets/header-dark.svg" alt="iBOY. www.iboyhub.com. Jaiganesh D, AI systems builder and full-stack developer, Tamil Nadu, India. 2,954 contributions in the last 12 months, over 100 repositories, 3 products live or in pilot." width="100%">
 </picture>
 
 I design, build and ship complete products on my own, from the first screen to the live server: web and mobile apps, AI assistants, voice features and business automation. I work with shops, schools, event teams and startups that need something real in production.
 
-**Open to** freelance and client projects, product partnerships, and remote or full-time roles. **Email:** [iboy.innovationhub@gmail.com](mailto:iboy.innovationhub@gmail.com)
+**Open to** freelance and client projects, product partnerships, and remote or full-time roles.  
+**Website:** [www.iboyhub.com](https://www.iboyhub.com) · **Email:** [iboy.innovationhub@gmail.com](mailto:iboy.innovationhub@gmail.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
@@ -40,4 +41,4 @@ I design, build and ship complete products on my own, from the first screen to t
 </picture>
 </a>
 
-<sub>Tamil Nadu, India · Tamil, Tanglish, English · Available for remote work · Activity charts use my real GitHub data. Strength and time-split charts are self-assessed.</sub>
+<sub><a href="https://www.iboyhub.com">www.iboyhub.com</a> · Tamil Nadu, India · Tamil, Tanglish, English · Available for remote work · Activity charts use my real GitHub data. Strength and time-split charts are self-assessed.</sub>
