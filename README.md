@@ -1,40 +1,75 @@
-<p align="center">
-  <img src="assets/hero.svg" alt="Jaiganesh D, iBOY. AI systems builder, full-stack developer and solo founder from Tamil Nadu. Open to projects and roles." width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-dark.svg" alt="iBOY. Jaiganesh D, AI systems builder and full-stack developer, Tamil Nadu, India." width="100%">
+</picture>
 
-<p align="center">
-  <a href="mailto:iboy.innovationhub@gmail.com"><img src="https://img.shields.io/badge/Email-iboy.innovationhub%40gmail.com-00E5A0?style=flat-square&labelColor=0A0F0D&logo=gmail&logoColor=00E5A0" alt="Email" /></a>
-  <a href="https://instagram.com/iboy_innovation.hub"><img src="https://img.shields.io/badge/Studio-%40iboy__innovation.hub-0A0F0D?style=flat-square&logo=instagram&logoColor=00E5A0" alt="iBOY Innovation Hub on Instagram" /></a>
-  <a href="https://instagram.com/from.jai.to.iboy"><img src="https://img.shields.io/badge/Personal-%40from.jai.to.iboy-0A0F0D?style=flat-square&logo=instagram&logoColor=00E5A0" alt="Personal Instagram" /></a>
-  <a href="https://github.com/iBOYJAI?tab=repositories"><img src="https://img.shields.io/badge/GitHub-iBOYJAI-0A0F0D?style=flat-square&logo=github&logoColor=00E5A0" alt="GitHub" /></a>
-</p>
+I design, build and ship complete products on my own, from the first screen to the live server. I work with shops, schools, event teams and startups that need something real in production.
 
-<img src="assets/h-open.svg" alt="01 Open to" width="100%" />
-<img src="assets/open.svg" alt="Open to freelance and client projects, product partnerships, and remote or full-time roles." width="100%" />
+**Currently open to** freelance and client projects, product partnerships, and remote or full-time roles.
+**Best way to reach me:** [iboy.innovationhub@gmail.com](mailto:iboy.innovationhub@gmail.com)
 
-<img src="assets/h-build.svg" alt="02 What I build" width="100%" />
-<img src="assets/build.svg" alt="What I build: business apps, AI products, mobile apps, and 3D interactive web." width="100%" />
+&nbsp;
 
-<img src="assets/h-work.svg" alt="03 Selected work" width="100%" />
-<img src="assets/work.svg" alt="Selected work: Laabo, Tectovia SMS, iPetie, iSoulSync, AI Anchor and Campus-to-Career." width="100%" />
+## What I build
 
-<p align="center"><sub>
-  <a href="http://tectovia.in/">Tectovia</a> ·
-  <a href="https://github.com/iBOYJAI/iPetie">iPetie</a> ·
-  <a href="https://github.com/iBOYJAI/iSoulSync-FV">iSoulSync</a> ·
-  <a href="https://github.com/iBOYJAI/AI_ANCHOR_V.0">AI Anchor</a> ·
-  <a href="https://github.com/iBOYJAI/campus-to-career-placement-platform">Campus-to-Career</a> ·
-  Laabo is a private client product, developed and licensed by iBOY
-</sub></p>
+- **Business apps:** billing, inventory, ERP and role-based dashboards
+- **AI products:** assistants, voice and Tamil-language features, RAG and multi-agent workflows
+- **Mobile apps:** Flutter apps with real-time chat and offline support
+- **3D and interactive web:** React Three Fiber experiences and AI hosts
 
-<img src="assets/h-stack.svg" alt="04 Stack" width="100%" />
-<img src="assets/stack.svg" alt="Stack: TypeScript, JavaScript, Python, Dart, Next.js, React, Flutter, NestJS, FastAPI, Node.js, PostgreSQL, Prisma, Supabase, MongoDB, Redis, Docker, Vercel, GCP, AWS, Three.js." width="100%" />
+&nbsp;
 
-<img src="assets/h-how.svg" alt="05 How I work" width="100%" />
-<img src="assets/how.svg" alt="How I work: one owner, real users first, clear and visible." width="100%" />
+## Products
 
-<br/>
+<table>
+  <tr>
+    <td width="96" align="center"><img src="assets/logos/laabo.png" width="72" alt="Laabo logo"></td>
+    <td><b>Laabo</b><br>Tamil-first billing, stock and profit platform for shops and supermarkets, with a voice assistant that speaks Tamil, Tanglish and English. Client product, developed and licensed by iBOY. <i>Client pilot.</i></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/logos/ipetie.png" width="72" alt="iPetie logo"></td>
+    <td><b><a href="https://github.com/iBOYJAI/iPetie">iPetie</a></b><br>Real-time AI pet companion with live chat rooms and admin tools. Flutter, NestJS, Supabase. <i>Beta live.</i></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/logos/isoulsync.png" width="72" alt="iSoulSync logo"></td>
+    <td><b><a href="https://github.com/iBOYJAI/iSoulSync-FV">iSoulSync</a></b><br>Emotional AI companion with a four-layer memory and an emotion engine. NestJS, Next.js, PostgreSQL. <i>In development.</i></td>
+  </tr>
+</table>
 
-<a href="mailto:iboy.innovationhub@gmail.com"><img src="assets/cta.svg" alt="Have something to build? Email iboy.innovationhub@gmail.com" width="100%" /></a>
+**Also built:**
+[Tectovia](http://tectovia.in/), a DST-funded school management system (₹2.5 lakh grant, in institutional use) ·
+[AI Anchor](https://github.com/iBOYJAI/AI_ANCHOR_V.0), a 3D voice-driven event host ·
+[Campus-to-Career](https://github.com/iBOYJAI/campus-to-career-placement-platform), a placement platform with AI resume matching
 
-<p align="center"><sub>iBOY Innovation Hub · Tamil Nadu, India · Tamil, Tanglish, English · Available for remote work</sub></p>
+&nbsp;
+
+## Tools I use
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,dart,nextjs,react,flutter,tailwind,threejs,nestjs,fastapi,nodejs&theme=dark&perline=12">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,dart,nextjs,react,flutter,tailwind,threejs,nestjs,fastapi,nodejs&theme=light&perline=12">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,dart,nextjs,react,flutter,tailwind,threejs,nestjs,fastapi,nodejs&perline=12" alt="TypeScript, JavaScript, Python, Dart, Next.js, React, Flutter, Tailwind CSS, Three.js, NestJS, FastAPI, Node.js">
+</picture>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,prisma,supabase,mongodb,redis,docker,vercel,gcp,aws,github,figma,git&theme=dark&perline=12">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,prisma,supabase,mongodb,redis,docker,vercel,gcp,aws,github,figma,git&theme=light&perline=12">
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,mongodb,redis,docker,vercel,gcp,aws,github,figma,git&perline=12" alt="PostgreSQL, Prisma, Supabase, MongoDB, Redis, Docker, Vercel, Google Cloud, AWS, GitHub, Figma, Git">
+</picture>
+
+&nbsp;
+
+## How I work
+
+One owner for design, code, database and deployment, so nothing gets lost between teams. I test on real phones and real user roles before I call something done, and I send short, plain updates with working builds you can click through.
+
+&nbsp;
+
+## Get in touch
+
+[![Email](https://img.shields.io/badge/Email-iboy.innovationhub%40gmail.com-1F2328?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iboy.innovationhub@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-iboy__innovation.hub-1F2328?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iboy_innovation.hub)
+[![Instagram](https://img.shields.io/badge/Instagram-from.jai.to.iboy-1F2328?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/from.jai.to.iboy)
+
+<sub>Tamil Nadu, India · Tamil, Tanglish, English · Available for remote work</sub>
